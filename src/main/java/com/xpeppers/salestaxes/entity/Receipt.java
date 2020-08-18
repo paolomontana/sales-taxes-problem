@@ -39,4 +39,8 @@ public class Receipt {
   public void addProduct(Product p) {
     this.products.add(p);
   }
+
+  public Object thenReturn(Receipt receipt) {
+    return null;
+  }
 }

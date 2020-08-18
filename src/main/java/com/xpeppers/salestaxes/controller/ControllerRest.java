@@ -15,7 +15,6 @@ import org.springframework.web.bind.annotation.RestController;
 
 @RestController
 public class ControllerRest {
-  
   @Autowired
   ReceiptService receiptService;
 
