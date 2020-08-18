@@ -1,6 +1,6 @@
 # sales-taxes-problem
 
-> Exercise by Xpeppers
+> Exercise by Xpepper
 
 
 
